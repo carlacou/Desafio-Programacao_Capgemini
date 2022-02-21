@@ -5,7 +5,7 @@ Página de cadastro que exige o preenchimento dos campos de nome e senha, porém
 - Contém no mínimo 1 digito.
 - Contém no mínimo 1 letra em minúsculo.
 - Contém no mínimo 1 letra em maiúsculo.
-- Contém no mínimo 1 caractere especial. Os - - Caracteres especiais são: !@#$%^&*()-+
+- Contém no mínimo 1 caractere especial. Os Caracteres especiais são: !@#$%^&*()-+
 
 # Tela Principal Login com link para página Cadastrar para quem  ainda não é usuário
 
